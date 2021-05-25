@@ -7,3 +7,6 @@ models:
   view:
     type: page
     label: view
+    fields:
+      - name: ''
+        type: string
