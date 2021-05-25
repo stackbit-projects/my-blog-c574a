@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Apollo Netlify`,
+    title: `Starter`,
     description: `This is an easy way to start developing fullstack GraphQL apps with Gatsby and Apollo Server (powered by Netlify functions).`,
     author: `@piducancore`,
   },
