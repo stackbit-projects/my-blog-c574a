@@ -11,5 +11,3 @@ models:
       - name: title
         type: string
         required: true
-      - name: ''
-        type: string
