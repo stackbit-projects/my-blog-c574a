@@ -8,5 +8,5 @@ models:
     type: page
     label: view
     fields:
-      - name: ''
+      - name: title
         type: string
