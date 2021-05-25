@@ -11,10 +11,10 @@ const NotFoundPage = () => (
     <SEO title="404: Não encontrado" />
     <Styled.h1>Não Encontrado</Styled.h1>
     <Styled.p>
-      You just hit a route that doesn&#39;t exist... the sadness.
+      Essa página não existe.
     </Styled.p>
     <Styled.a as={Link} to="/">
-      Go back to the homepage
+      Voltar à página inicial
     </Styled.a>
   </Layout>
 )
